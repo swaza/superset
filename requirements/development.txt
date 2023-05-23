@@ -84,7 +84,7 @@ pyhive[hive]==0.6.5
     # via apache-superset
 pyinstrument==4.0.2
     # via -r requirements/development.in
-requests==2.26.0
+requests==2.31.0
     # via
     #   pydruid
     #   tableschema
